@@ -31,6 +31,9 @@ De momento no nos preocupamos de quién entra en la aplicación. Vamos a suponer
 ## Criterios de calificación
 
 15% hacer los comentarios de cada método.
+
 30% calidad de los elementos y componentes del programa.
+
 15% que al montarla el tutor no tenga problemas en su equipo.
+
 40% que la aplicación funcione bien.
